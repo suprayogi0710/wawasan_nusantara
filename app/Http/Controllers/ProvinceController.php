@@ -9,8 +9,10 @@ class ProvinceController extends Controller
 {
     public function __invoke()
     {
-        $provinces = Province::latest()->paginate(12);
+        $data['province_count'] = Province::count();
 
-        return view('provinsi', compact('provinces'));
+        $data['provinces'] = Province::latest()->paginate(12);
+
+        return view('provinsi', compact('data'));
     }
 }
