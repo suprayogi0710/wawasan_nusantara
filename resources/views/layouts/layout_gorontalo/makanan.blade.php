@@ -2,99 +2,117 @@
  <h1>MAKANAN KHAS DAERAH GORONTALO</h1>
  <div class="card-group">
      <div class="card m-1">
-       <img src="/assets/img/indonesia/aceh/makanan/Aceh-Asam_Keueng.jpg" class="card-img-top" alt="..." width="20">
-       <div class="card-body">
-         <div class="d-grid gap-2">
-          <h3 class="text text-center">Masakan Asam Keueng</h3>
-          <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button class="btn btn-danger" type="button">Play</a>
+         <img src="/assets/img/indonesia/gorontalo/makanan/ayam-iloni.jpg" class="card-img-top" alt="..."
+             width="20">
+         <div class="card-body">
+             <div class="d-grid gap-2">
+                 <h3 class="text text-center">Ayam Iloni</h3>
+                 <a href="https://youtu.be/Yu4avIhRz6c?si=nSbQ3O2Bct4hQDm2" button class="btn btn-danger"
+                     type="button">Play</a>
+             </div>
          </div>
-          </div>
      </div>
      <div class="card m-1">
-         <img src="/assets/img/indonesia/aceh/makanan/aceh-ayam_tangkap.jpg" class="card-img-top" alt="..." width="20">
-       <div class="card-body">
-         <div class="d-grid gap-2">
-          <h3 class="text text-center">Masakan Ayam Tangkap</h3>
-          <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button class="btn btn-danger" type="button">Play</a>
+         <img src="/assets/img/indonesia/gorontalo/makanan/bilenthango.jpg" class="card-img-top" alt="..."
+             width="20">
+         <div class="card-body">
+             <div class="d-grid gap-2">
+                 <h3 class="text text-center">Bilehthango</h3>
+                 <a href="https://youtu.be/Yu4avIhRz6c?si=nSbQ3O2Bct4hQDm2" button class="btn btn-danger"
+                     type="button">Play</a>
+             </div>
          </div>
-       </div>
      </div>
      <div class="card m-1">
-         <img src="/assets/img/indonesia/aceh/makanan/aceh-Keumamah.jpg" class="card-img-top" alt="..." width="20">
-       <div class="card-body">
-         <div class="d-grid gap-2">
-          <h3 class="text text-center">Masakan Keumamah</h3>
-          <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button class="btn btn-danger" type="button">Play</a>
+         <img src="/assets/img/indonesia/gorontalo/makanan/binte-buluhuta.jpg" class="card-img-top" alt="..."
+             width="20">
+         <div class="card-body">
+             <div class="d-grid gap-2">
+                 <h3 class="text text-center">Binte Buluhuta</h3>
+                 <a href="https://youtu.be/Yu4avIhRz6c?si=nSbQ3O2Bct4hQDm2" button class="btn btn-danger"
+                     type="button">Play</a>
+             </div>
          </div>
-       </div>
      </div>
      <div class="card m-1">
-         <img src="/assets/img/indonesia/aceh/makanan/aceh-Eungkot_Paya.jpg" class="card-img-top" class="card-img-top" alt="..." width="20">
-       <div class="card-body">
-         <div class="d-grid gap-2">
-          <h3 class="text text-center">Masakan Eungkot</h3>
-          <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button class="btn btn-danger" type="button">Play</a>
+         <img src="/assets/img/indonesia/gorontalo/makanan/brenebon.jpg" class="card-img-top" class="card-img-top"
+             alt="..." width="20">
+         <div class="card-body">
+             <div class="d-grid gap-2">
+                 <h3 class="text text-center">Brenebon</h3>
+                 <a href="https://youtu.be/Yu4avIhRz6c?si=nSbQ3O2Bct4hQDm2" button class="btn btn-danger"
+                     type="button">Play</a>
+             </div>
          </div>
-       </div>
      </div>
-         <div class="card m-1">
-         <img src="/assets/img/indonesia/aceh/makanan/aceh-Kuah_Beulangong.jpg" class="card-img-top"  alt="..." width="20">
-       <div class="card-body">
-         <div class="d-grid gap-2">
-          <h3 class="text text-center">Masakan Kuah Beulangong</h3>
-          <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button class="btn btn-danger" type="button">Play</a>
+     <div class="card m-1">
+         <img src="/assets/img/indonesia/gorontalo/makanan/duduli.jpg" class="card-img-top" alt="..."
+             width="20">
+         <div class="card-body">
+             <div class="d-grid gap-2">
+                 <h3 class="text text-center">Duduli</h3>
+                 <a href="https://youtu.be/Yu4avIhRz6c?si=nSbQ3O2Bct4hQDm2" button class="btn btn-danger"
+                     type="button">Play</a>
+             </div>
          </div>
-       </div>
      </div>
-   </div>
- 
-   <!--card2-->
-   <div class="card-group">
-    <div class="card m-1">
-      <img src="/assets/img/indonesia/aceh/makanan/aceh-Kuah_Pliek_U.jpg" class="card-img-top" alt="..." width="20">
-    <div class="card-body">
-      <div class="d-grid gap-2">
-       <h3 class="text text-center">Masakan Kuah Pliek U</h3>
-       <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button class="btn btn-danger" type="button">Play</a>
-      </div>
-    </div>
-  </div>
-  <div class="card m-1">
-    <img src="/assets/img/indonesia/aceh/makanan/aceh-Kuah_Sie_Itek.jpg" class="card-img-top" alt="..." width="20">
-  <div class="card-body">
-    <div class="d-grid gap-2">
-     <h3 class="text text-center">Masakan Kuah Sie Itek</h3>
-     <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button class="btn btn-danger" type="button">Play</a>
-    </div>
-  </div>
  </div>
- <div class="card m-1">
-  <img src="/assets/img/indonesia/aceh/makanan/aceh-Kue Adee.jpg" class="card-img-top" alt="..." width="20">
- <div class="card-body">
-  <div class="d-grid gap-2">
-   <h3 class="text text-center">Masakan Kue Adee</h3>
-   <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button class="btn btn-danger" type="button">Play</a>
-  </div>
+
+ <!--card2-->
+ <div class="card-group">
+     <div class="card m-1">
+         <img src="/assets/img/indonesia/gorontalo/makanan/ilabulo.jpg" class="card-img-top" alt="..."
+             width="20">
+         <div class="card-body">
+             <div class="d-grid gap-2">
+                 <h3 class="text text-center">Ilabulo</h3>
+                 <a href="https://youtu.be/Yu4avIhRz6c?si=nSbQ3O2Bct4hQDm2" button class="btn btn-danger"
+                     type="button">Play</a>
+             </div>
+         </div>
+     </div>
+     <div class="card m-1">
+         <img src="/assets/img/indonesia/gorontalo/makanan/kue-karawo.jpg" class="card-img-top" alt="..."
+             width="20">
+         <div class="card-body">
+             <div class="d-grid gap-2">
+                 <h3 class="text text-center">Kue Karawo</h3>
+                 <a href="https://youtu.be/Yu4avIhRz6c?si=nSbQ3O2Bct4hQDm2" button class="btn btn-danger"
+                     type="button">Play</a>
+             </div>
+         </div>
+     </div>
+     <div class="card m-1">
+         <img src="/assets/img/indonesia/gorontalo/makanan/perdekedel-nike.jpg" class="card-img-top" alt="..."
+             width="20">
+         <div class="card-body">
+             <div class="d-grid gap-2">
+                 <h3 class="text text-center">Perkedel Nike</h3>
+                 <a href="https://youtu.be/Yu4avIhRz6c?si=nSbQ3O2Bct4hQDm2" button class="btn btn-danger"
+                     type="button">Play</a>
+             </div>
+         </div>
+     </div>
+     <div class="card m-1">
+         <img src="/assets/img/indonesia/gorontalo/makanan/sayur-putungo.jpg" class="card-img-top" alt="..."
+             width="20">
+         <div class="card-body">
+             <div class="d-grid gap-2">
+                 <h3 class="text text-center">Sayur Putungo</h3>
+                 <a href="https://youtu.be/Yu4avIhRz6c?si=nSbQ3O2Bct4hQDm2" button class="btn btn-danger"
+                     type="button">Play</a>
+             </div>
+         </div>
+     </div>
+     <div class="card m-1">
+         <img src="/assets/img/indonesia/gorontalo/makanan/tili-aya.jpg" class="card-img-top" alt="..."
+             width="20">
+         <div class="card-body">
+             <div class="d-grid gap-2">
+                 <h3 class="text text-center">Tili Aya</h3>
+                 <a href="https://youtu.be/Yu4avIhRz6c?si=nSbQ3O2Bct4hQDm2" button class="btn btn-danger"
+                     type="button">Play</a>
+             </div>
+         </div>
+     </div>
  </div>
- </div>
- <div class="card m-1">
-  <img src="/assets/img/indonesia/aceh/makanan/aceh-Sambal_Ganja.jpg" class="card-img-top" alt="..." width="20">
- <div class="card-body">
-  <div class="d-grid gap-2">
-   <h3 class="text text-center">Masakan Sambal Ganja</h3>
-   <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button class="btn btn-danger" type="button">Play</a>
-  </div>
- </div>
- </div>
- <div class="card m-1">
-  <img src="/assets/img/indonesia/aceh/makanan/aceh-Sie_Reuboh.jpg" class="card-img-top" alt="..." width="20">
- <div class="card-body">
-  <div class="d-grid gap-2">
-   <h3 class="text text-center">Masakan Sie Reuboh</h3>
-   <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button class="btn btn-danger" type="button">Play</a>
-  </div>
- </div>
- </div>
- </div>
- 
- 

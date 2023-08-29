@@ -2,74 +2,56 @@
  <h1>PAKAIAN ADAT GORONTALO</h1>
  <div class="card-group">
      <div class="card m-1">
-         <img src="/assets/img/indonesia/aceh/pakaian/aceh_pakaian_baju_kurung.jpg" class="card-img-top" alt="..."
-             width="20">
+         <img src="/assets/img/indonesia/gorontalo/pakaian/biliu.jpg" class="card-img-top" alt="..." width="20">
          <div class="card-body">
              <div class="d-grid gap-2">
-                 <h3 class="text text-center">Baju Adat Kurung</h3>
-                 <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button
-                     class="btn btn-danger" type="button">Play</a>
+                 <h3 class="text text-center">Biliu</h3>
+                 <a href="https://youtu.be/jRVp2x_j_es?si=wLx1RlJ8J7i-pBJS" button class="btn btn-danger"
+                     type="button">Play</a>
              </div>
          </div>
      </div>
      <div class="card m-1">
-         <img src="/assets/img/indonesia/aceh/pakaian/aceh_pakaian_cekak_musang.jpg" class="card-img-top" alt="..."
+         <img src="/assets/img/indonesia/gorontalo/pakaian/makuta.jpg" class="card-img-top" alt="..."
              width="20">
          <div class="card-body">
              <div class="d-grid gap-2">
-                 <h3 class="text text-center">Baju Adat Cekak Musang</h3>
-                 <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button
-                     class="btn btn-danger" type="button">Play</a>
+                 <h3 class="text text-center">Makuta</h3>
+                 <a href="https://youtu.be/jRVp2x_j_es?si=wLx1RlJ8J7i-pBJS" button class="btn btn-danger"
+                     type="button">Play</a>
              </div>
          </div>
      </div>
      <div class="card m-1">
-         <img src="/assets/img/indonesia/aceh/pakaian/aceh_pakaian_meukasah.png" class="card-img-top" alt="..."
+         <img src="/assets/img/indonesia/gorontalo/pakaian/mandipungu.jpg" class="card-img-top" alt="..."
              width="20">
          <div class="card-body">
              <div class="d-grid gap-2">
-                 <h3 class="text text-center">Baju Adat Meukasah</h3>
-                 <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button
-                     class="btn btn-danger" type="button">Play</a>
+                 <h3 class="text text-center">MandiPungu</h3>
+                 <a href="https://youtu.be/jRVp2x_j_es?si=wLx1RlJ8J7i-pBJS" button class="btn btn-danger"
+                     type="button">Play</a>
              </div>
          </div>
      </div>
      <div class="card m-1">
-         <img src="/assets/img/indonesia/aceh/pakaian/aceh_pakaian_meukeutop.jpg" class="card-img-top"
+         <img src="/assets/img/indonesia/gorontalo/pakaian/pakaian-adat-gorontalo.jpg" class="card-img-top"
              class="card-img-top" alt="..." width="20">
          <div class="card-body">
              <div class="d-grid gap-2">
-                 <h3 class="text text-center">Baju Adat Meukeutop</h3>
-                 <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button
-                     class="btn btn-danger" type="button">Play</a>
+                 <h3 class="text text-center">Pakaian Adat Gorontalo</h3>
+                 <a href="https://youtu.be/jRVp2x_j_es?si=wLx1RlJ8J7i-pBJS" button class="btn btn-danger"
+                     type="button">Play</a>
              </div>
          </div>
      </div>
      <div class="card m-1">
-         <img src="/assets/img/indonesia/aceh/pakaian/aceh_pakaian_patam_dhoe.png" class="card-img-top" alt="..."
+         <img src="/assets/img/indonesia/gorontalo/pakaian/adat-suku.jpg" class="card-img-top" alt="..."
              width="20">
          <div class="card-body">
              <div class="d-grid gap-2">
-                 <h3 class="text text-center">Baju Adat Patam Dhoe</h3>
-                 <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button
-                     class="btn btn-danger" type="button">Play</a>
-             </div>
-         </div>
-     </div>
- </div>
-
- <!--card2-->
- <div class="card5">
-     <div class="card-group align-content-center">
-         <div class="card m-1">
-             <img src="/assets/img/indonesia/aceh/pakaian/aceh_pakaian_sileuweu.jpg" class="card-img-top" alt="..."
-                 width="20">
-             <div class="card-body">
-                 <div class="d-grid gap-3">
-                     <h3 class="text text-center">Baju Adat Sileuweu</h3>
-                     <a href="https://www.youtube.com/watch?v=yuypTuurFSk&list=RDyuypTuurFSk&start_radio=1" button
-                         class="btn btn-danger" type="button">Play</a>
-                 </div>
+                 <h3 class="text text-center">Baju Adat Suku Gorontalo</h3>
+                 <a href="https://youtu.be/jRVp2x_j_es?si=wLx1RlJ8J7i-pBJS" button class="btn btn-danger"
+                     type="button">Play</a>
              </div>
          </div>
      </div>
