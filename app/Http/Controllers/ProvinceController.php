@@ -11,7 +11,7 @@ class ProvinceController extends Controller
     {
         $data['province_count'] = Province::count();
 
-        $data['provinces'] = Province::latest()->paginate(12);
+        $data['provinces'] = Province::paginate(12);
 
         return view('provinsi', compact('data'));
     }
